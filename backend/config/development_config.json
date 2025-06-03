@@ -1,0 +1,9 @@
+{
+  "ENVIRONMENT": "development",
+  "SECRET_KEY": "bbcaba356650ceb8aa9adcc74b7dc2aae364716b3f38ddc9ed43873247b41e10",
+  "JWT_SECRET_KEY": "6c1633a7c7fc0e698f9179c6efa9d071f770bbe251937e04d164a0ab9a10597e",
+  "DEBUG": true,
+  "SQLALCHEMY_DATABASE_URI": "sqlite:///database.db",
+  "SQLALCHEMY_ECHO": true,
+  "LOG_LEVEL": "DEBUG"
+}
