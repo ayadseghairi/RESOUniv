@@ -7,26 +7,13 @@ import { Link } from "react-router-dom"
 
 const developers = [
   {
-    name: "وصال قنيس",
-    role: "طالب ماستر - أمن تطبيقات الويب",
-    image: "../src/assets/dev1.jpg",
-    github: "https://github.com/wissal-mdn",
-    linkedin: "https://www.linkedin.com/in/wissal-guenis-96a179326",
+    name: "إياد سغيري",
+    role: "Full-Stack Developer · Open Source Contributor · Security-Oriented Engineer",
+    image: "../src/assets/dev.jpg",
+    github: "https://github.com/ayadseghairi",
+    linkedin: "https://www.linkedin.com/in/ayad-seghiri",
   },
-  {
-    name: "حفظاوي ملاك",
-    role: "طالب ماستر - هندسة البرمجيات",
-    image: "../src/assets/dev2.jpg",
-    github: "#",
-    linkedin: "#",
-  },
-  {
-    name: "ريان سعيدي",
-    role: "طالبة ماستر - نظم معلومات",
-    image: "../src/assets/dev3.jpg",
-    github: "https://github.com/rayenenounou",
-    linkedin: "https://www.linkedin.com/in/rayene-saidi-796178365",
-  },
+  
 ]
 
 const AboutPage = () => {
